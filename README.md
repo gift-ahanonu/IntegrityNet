@@ -1,4 +1,4 @@
-# 🛡IntegrityNet
+# IntegrityNet
 
 **AI-Powered Scam and Fraud Detection Platform**
 
