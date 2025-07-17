@@ -45,7 +45,7 @@ IntegrityNet is a web-based platform that empowers users to detect and report sc
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/IntegrityNet.git
+git clone https://github.com/gift-ahanonu/IntegrityNet
 cd IntegrityNet
 
 # Backend Setup
